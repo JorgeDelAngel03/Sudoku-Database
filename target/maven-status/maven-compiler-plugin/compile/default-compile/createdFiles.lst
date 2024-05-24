@@ -1,0 +1,6 @@
+com\udg\ranking\repositories\UserRepository.class
+com\udg\ranking\controllers\UserController.class
+com\udg\ranking\RankingApplication.class
+com\udg\ranking\ServletInitializer.class
+com\udg\ranking\models\UserModel.class
+com\udg\ranking\services\UserService.class
